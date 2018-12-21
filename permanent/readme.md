@@ -6,4 +6,4 @@ https://service-canada-cx.github.io/randomizer/permanent/rndm-fr.html
 
 The cndn-en and cndn-fr files randomize studies for Canadian citizens or permanent residents
 
-The age-en and age-fr files randomize studies for youth 15-29.
+The 1529-en and 1529-fr files randomize studies for youth 15-29.
