@@ -5,11 +5,19 @@ https://service-canada-cx.github.io/randomizer/permanent/rndm-en.html
 https://service-canada-cx.github.io/randomizer/permanent/rndm-fr.html
 
 
-The cndn-en and cndn-fr files randomize studies for Canadian citizens or permanent residents
+The cndn-en and cndn-fr files randomize studies for Canadian citizens or permanent residents (first pass)
 
 https://service-canada-cx.github.io/randomizer/permanent/cndn-en.html
 
 https://service-canada-cx.github.io/randomizer/permanent/cndn-fr.html
+
+
+The cndn-stds-en and cndn-stds-fr files randomize studies for Canadian citizens or permanent residents (second pass)
+
+https://service-canada-cx.github.io/randomizer/permanent/cndn-stds-en.html
+
+https://service-canada-cx.github.io/randomizer/permanent/cndn-stds-fr.html
+
 
 
 The 1529-en and 1529-fr files randomize studies for youth 15-29.
