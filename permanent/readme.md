@@ -11,7 +11,7 @@ https://service-canada-cx.github.io/randomizer/permanent/1529-en.html
 
 https://service-canada-cx.github.io/randomizer/permanent/1529-fr.html
 
-THE FOLLOWING FILES ARE NOT CURRENTLY IN USE
+*THE FOLLOWING FILES ARE NOT CURRENTLY IN USE*
 
 The cndn-en and cndn-fr files randomize studies for Canadian citizens or permanent residents (first pass)
 
