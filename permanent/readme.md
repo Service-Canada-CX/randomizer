@@ -4,21 +4,20 @@ https://service-canada-cx.github.io/randomizer/permanent/rndm-en.html
 
 https://service-canada-cx.github.io/randomizer/permanent/rndm-fr.html
 
-
-*THE FOLLOWING FILES ARE NOT CURRENTLY IN USE*
-
-The cndn-en and cndn-fr files randomize studies for Canadian citizens or permanent residents (first pass)
+The cndn-en and cndn-fr files randomize studies for Canadian citizens or permanent residents
 
 https://service-canada-cx.github.io/randomizer/permanent/cndn-en.html
 
 https://service-canada-cx.github.io/randomizer/permanent/cndn-fr.html
 
+The cndn-stds-en and cndn-stds-fr files randomize studies for Canadian citizens or permanent residents who don't qualify for another study
 
-The cndn-stds-en and cndn-stds-fr files randomize studies for Canadian citizens or permanent residents (second pass)
+https://service-canada-cx.github.io/randomizer/permanent/cndn-2-en.html
 
-https://service-canada-cx.github.io/randomizer/permanent/cndn-stds-en.html
+https://service-canada-cx.github.io/randomizer/permanent/cndn-2-fr.html
 
-https://service-canada-cx.github.io/randomizer/permanent/cndn-stds-fr.html
+
+*THE FOLLOWING FILES ARE NOT CURRENTLY IN USE*
 
 
 The 1529-en and 1529-fr files randomize studies for youth 15-29.
