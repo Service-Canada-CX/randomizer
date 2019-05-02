@@ -4,12 +4,12 @@
      <script type="text/javascript">
         //Link array
         var links = [
-  	      "https://google.com",
-          "https://google.ca"
+  	      "https://translate.google.ca/?tl=" + LANG_TEMPLATE,
+          "https://translate.google.com/?tl=" + LANG_TEMPLATE
         ];
       </script>
 	</head>
 	<body>
-		<script>randomLinkRedirect(links);</script>
+		<script>randomLinkRedirectI18N(links, getLangUrlParameter());</script>
 	</body>
 </html>
