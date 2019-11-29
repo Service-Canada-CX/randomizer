@@ -6,9 +6,5 @@ https://service-canada-cx.github.io/randomizer/servicecanada/rndm-en.html
 
 https://service-canada-cx.github.io/randomizer/servicecanada/rndm-fr.html
 
-Youth Challenge Study
 
-https://service-canada-cx.github.io/randomizer/servicecanada/rndm2-en.html
-
-https://service-canada-cx.github.io/randomizer/servicecanada/rndm2-fr.html
 
