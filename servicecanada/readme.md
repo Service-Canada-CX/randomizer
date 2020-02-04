@@ -2,8 +2,10 @@ This folder is used to randomize to various user studies from the ESDC-published
 
 Youth Design Challenge
 
-https://eccx.optimalworkshop.com/chalkmark/youth-challenge-en  
-https://eccx.optimalworkshop.com/chalkmark/youth-challenge-fr 
+https://eccx.optimalworkshop.com/chalkmark/youth-challenge-2-en
+
+https://eccx.optimalworkshop.com/chalkmark/youth-challenge-2-fr 
+
 
 
 
