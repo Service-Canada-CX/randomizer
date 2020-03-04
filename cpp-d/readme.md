@@ -5,4 +5,4 @@ https://service-canada-cx.github.io/randomizer/cpp-d/rndm-en.html
 https://service-canada-cx.github.io/randomizer/cpp-d/rndm-fr.html
 
 
-Not currently in use!!
+
