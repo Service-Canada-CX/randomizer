@@ -4,6 +4,6 @@ Employer English: https://service-canada-cx.github.io/randomizer/jobbank/emp-rnd
 
 Employer French: https://service-canada-cx.github.io/randomizer/jobbank/emp-rndn-fr.html
 
-Job Seeker English: https://service-canada-cx.github.io/randomizer/jobbank/rndm-en.html
+Job Seeker English: https://service-canada-cx.github.io/randomizer/jobbank/js-rndm-en.html
 
-Job Seeker French: https://service-canada-cx.github.io/randomizer/jobbank/rndm-en.html
+Job Seeker French: https://service-canada-cx.github.io/randomizer/jobbank/js-rndm-fr.html
