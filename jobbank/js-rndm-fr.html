@@ -1,1 +1,33 @@
-
+<html>
+   <head>
+    <script type="text/javascript">
+    var randomLink = function () {
+        // first create an array of links
+        var links = [
+          //links should be listed here
+          //the double slash makes the line a comment and disables any commands
+          //the last link should not have a comma at the end
+          //make sure that all links are between quotes
+          //"LINK1",
+          //"LINK2",
+          //"LASTLINK"
+          "https://eccx.optimalworkshop.com/treejack/js-de-ta1-f",
+          "https://eccx.optimalworkshop.com/treejack/js-de-ta2-f",
+          "https://eccx.optimalworkshop.com/treejack/js-de-ta3-f",
+          "https://eccx.optimalworkshop.com/treejack/js-de-ta4-f"
+		    ];
+        // Count the links
+        var max = (links.length);
+        // Generate a random number
+        var randomNumber = Math.floor(Math.random()*max);
+        // Use the random number to pick a URL
+        var link = links[randomNumber];
+        // change the location of the window object
+        window.location = link;
+    }
+    </script>
+	</head>
+	<body>
+		<script>randomLink();</script>
+	</body>
+</html>
