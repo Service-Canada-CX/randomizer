@@ -2,7 +2,7 @@ This folder is used to randomize to various user studies on Canada.ca for the CP
 
 Employer English: https://service-canada-cx.github.io/randomizer/jobbank/emp-rndm-en.html
 
-Employer French: https://service-canada-cx.github.io/randomizer/jobbank/emp-rndn-fr.html
+Employer French: https://service-canada-cx.github.io/randomizer/jobbank/emp-rndm-fr.html
 
 Job Seeker English: https://service-canada-cx.github.io/randomizer/jobbank/js-rndm-en.html
 
