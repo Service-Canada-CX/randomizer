@@ -1,13 +1,9 @@
 This folder is used to randomize to various user studies on Canada.ca for the CPP Information to apply letter study.
 
-https://service-canada-cx.github.io/randomizer/jobbank/rndm-en.html
+Employer English: https://service-canada-cx.github.io/randomizer/jobbank/emp-rndm-en.html
 
-https://service-canada-cx.github.io/randomizer/jobbank/rndm-fr.html
+Employer French: https://service-canada-cx.github.io/randomizer/jobbank/emp-rndn-fr.html
 
-Employer English: https://service-canada-cx.github.io/randomizer/jobbank/rndm-en.html
+Job Seeker English: https://service-canada-cx.github.io/randomizer/jobbank/rndm-en.html
 
-Employer French:
-
-Job Seeker English:
-
-Job Seeker French:
+Job Seeker French: https://service-canada-cx.github.io/randomizer/jobbank/rndm-en.html
