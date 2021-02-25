@@ -1,4 +1,4 @@
-This folder is used to randomize to various user studies on Canada.ca for the CPP Information to apply letter study.
+This folder is used to randomize to various user studies on Canada.ca for the Job Bank TreeJack studies.
 
 Employer English: https://service-canada-cx.github.io/randomizer/jobbank/emp-rndm-en.html
 
