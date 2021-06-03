@@ -1,0 +1,24 @@
+<html>
+   <head>
+    <script type="text/javascript">
+    var randomLink = function () {
+        // first create an array of links
+        var links = [
+		// "https://eccx.optimalworkshop.com/questions/cx-permanent-en"
+		
+        ];
+        // Count the links
+        var max = (links.length);
+        // Generate a random number
+        var randomNumber = Math.floor(Math.random()*max);
+        // Use the random number to pick a URL
+        var link = links[randomNumber];
+        // change the location of the window object
+        window.location = link;
+    }
+    </script>
+	</head>
+	<body>
+		<script>randomLink();</script>
+	</body>
+</html>
